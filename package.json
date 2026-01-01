@@ -1,0 +1,8 @@
+{
+	"name": "cfd",
+	"version": "0.0.0",
+	"scripts": {
+		"up": "docker-compose up -d --build",
+		"down": "docker-compose down"
+	}
+}
